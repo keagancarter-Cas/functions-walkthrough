@@ -149,7 +149,7 @@ console.log(buildFullName(first, last));
 //Example: canVote(15) should return "Not yet eligible."
 
 //What would canVote(18) return? Why is it important to test this edge case?
-
+//defines the value that is required to be able to vote
 function canVote(age){
 if (age >= 18){
 return ("Yes, you can vote!");
@@ -165,7 +165,7 @@ console.log(canVote(20));
 //A function is a variable that is used to assign a value using multiple parameters
 
 //4.7 -Give one real-world reason why functions are useful in programming:
-//Allow for multiple possible combinations that automatically track the values of those parameters
+//Allow for multiple possible combinations that automatically track the values of those parameters, like a automated bank tracking system.
 
 
 //4.8 - What is the difference between a parameter and an argument? Give an example.
