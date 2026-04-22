@@ -159,3 +159,17 @@ return ("Not yet eligible");
 }
 console.log(canVote(15));
 console.log(canVote(20));
+//4
+
+//4.6 - In one sentence, explain what a function is:
+//A function is a variable that is used to assign a value using multiple parameters
+
+//4.7 -Give one real-world reason why functions are useful in programming:
+//Allow for multiple possible combinations that automatically track the values of those parameters
+
+
+//4.8 - What is the difference between a parameter and an argument? Give an example.
+//A parameter is the variable, an argument is what the parameter is equal to
+
+//4.9 - What happens if you call a function but forget the return keyword? What would you get back?
+//Returns a value of being undefined while still executing the command
